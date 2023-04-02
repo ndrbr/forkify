@@ -2,7 +2,7 @@ import View from './View.js';
 
 import icons from 'url:../../../src/img/icons.svg';
 import fracty from 'fracty';
-import { trim } from 'lodash-es';
+// import { trim } from 'lodash-es';
 
 class RecipeView extends View {
   _parentElement = document.querySelector('.recipe');
